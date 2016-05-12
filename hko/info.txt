@@ -1,0 +1,13 @@
+
+rainfall by hours
+http://www.hko.gov.hk/wxinfo/rainfall/rf_record_e.shtml?form=rfrecorde&Selday=01&Selmonth=05&Selhour=00
+rainfall images
+http://www.hko.gov.hk/wxinfo/rainfall/isohyete.shtml
+
+warning 
+http://www.hko.gov.hk/textonly/v2/warning/warn.htm
+special announcement
+http://www.hko.gov.hk/textonly/v2/warning/detail.htm
+
+readings
+http://www.hko.gov.hk/textonly/v2/forecast/text_readings_e.htm
